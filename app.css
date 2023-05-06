@@ -96,8 +96,13 @@ h1 {
     }
 
     #delete {
-        font-size: 1em;
+        font-size: 0.8em;
     }
+
+    #clear {
+        font-size: 0.8em;
+    }
+
 }
 
 
@@ -116,11 +121,11 @@ h1 {
     }
 
     #delete {
-        font-size: 0.8em;
+        font-size: 0.5em;
     }
 
     #clear {
-        font-size: 0.8em;
+        font-size: 0.5em;
     }
 
 }
