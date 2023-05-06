@@ -96,14 +96,14 @@ h1 {
     }
 
     #delete {
-        font-size: 1.2em;
+        font-size: 1em;
     }
 }
 
 
 @media (max-width:280px) {
     #numPage {
-        width: 250px;
+        width: 225px;
 
     }
 
